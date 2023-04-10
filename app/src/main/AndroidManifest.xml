@@ -27,6 +27,13 @@
                 android:name="android.app.lib_name"
                 android:value="" />
         </activity>
+        <activity android:name=".Pets">
+        </activity>
+        <activity android:name=".FindPet"></activity>
+        <activity android:name=".Sozdat"></activity>
+        <activity android:name=".Udalit"></activity>
+        <activity android:name=".Users"></activity>
+        <activity android:name=".Sozdanie_usera"></activity>
     </application>
 
 </manifest>
